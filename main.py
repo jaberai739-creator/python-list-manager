@@ -1,4 +1,4 @@
-دnames = ["mohammed", "jaber", "tarq", "ahemed"]
+names = ["mohammed", "jaber", "tarq", "ahemed"]
 
 while True:
 
@@ -54,3 +54,4 @@ while True:
     elif choice == "10":
         names.reverse()
         print(names)
+        # My first Git update
